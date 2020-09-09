@@ -5,7 +5,6 @@ Create TABLE account(
     Primary Key(id)
 );
 
-
 CREATE TABLE persoon(
     id int not null AUTO_INCREMENT,
     firstname int not null,
